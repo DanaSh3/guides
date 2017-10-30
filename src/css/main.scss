@@ -15,6 +15,7 @@
 :global body {
   font-family: 'Lato', 'FontAwesome', sans-serif;
   font-size: 16px;
+  /* May vary the font, and size */
 }
 
 :global h1,
@@ -25,6 +26,7 @@
 :global h6 {
   /* Bootstrap sets weight to 500, we don't have that */
   font-weight: 700;
+  /* starting from h2 and increasing oddly may give better look"
 }
 
 :global h2:first-child {
